@@ -1,1 +1,1 @@
-web: gunicorn caesar.wsgi --log-file 
+web: gunicorn caesar.wsgi 
